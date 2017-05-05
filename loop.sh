@@ -1,4 +1,6 @@
 #!/bin/sh
+# omg
+
 for i in {1..5}
 do
 	if test -r signal.txt -a -e signal.txt; then
